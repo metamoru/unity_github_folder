@@ -222,3 +222,4 @@ Temp/*
 *.userprefs
 *.swp
 *.nib
+*.csproj

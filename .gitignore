@@ -214,9 +214,11 @@ pip-log.txt
 #Mr Developer
 .mr.developer.cfg
 
-Library
-Temp
+Library/*
+Temp/*
 *.pidb
 *.unityproj
 *.sln
 *.userprefs
+*.swp
+*.nib
